@@ -1,10 +1,8 @@
 ## Formação SQL com Oracle Database
 
-> Este documento tem por objetivo armazenar as informações vistas no curso e utiliza-las para possível consulta.
-
-> Os código estão categorizados por pastas de acordo com o tema.
-
-> Informações mais detalhadas serão abordadas neste arquivo README.md.
+> Este documento tem por objetivo armazenar as informações vistas no curso e utiliza-las para possível consulta.[^note]
+    Os código estão categorizados por pastas de acordo com o tema.
+    Informações mais detalhadas serão abordadas neste arquivo README.md.
 
 
 ### Construindo um Mapa Relacional a partir das tabelas existentes:
