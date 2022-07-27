@@ -6,6 +6,7 @@
 
 ### SQL Manipule e Consulte Dados
 
+
 - Realizando uma consulta
 
 ```
