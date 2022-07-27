@@ -7,9 +7,16 @@
 ### SQL Manipule e Consulte Dados
 
 - Realizando uma consulta
-    _Para realizarmos uma consulta, precisamos digitar o comando:_
+
 ```
 SELECT * FROM NOMEDATABELA;
+```
+
+- Realizando uma consulta com filtro
+
+
+```
+SELECT * FROM NOMEDATABELA WHERE CONDICAO = VALORIDEALIZADO;
 ```
 
 ### Construindo um Mapa Relacional a partir das tabelas existentes:
