@@ -59,6 +59,21 @@ VALUES
 ('1040107', 'Light - 350ML - Melancia', 'Lata', '350ML', 'Melancia', 4.56);
 ```
 
+- **Apagar registros de uma tabela**
+
+> _Para apagar os regsitros de uma tabela, é necessário utilizar a cláusula WHERE (condição), caso ao contrário, todos os dados serão apagados._
+
+```
+DELETE FROM TB_PRODUTOS
+WHERE PRODUTO = '1000889';
+```
+
+- **Apagar tabela**
+
+```
+DROP TABLE TB_CLIENTES2;
+```
+
 ### Construindo um Mapa Relacional a partir das tabelas existentes:
 
 - Exibir - Data Modeler - Browser
